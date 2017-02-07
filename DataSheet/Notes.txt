@@ -1,0 +1,8 @@
+https://learn.adafruit.com/adafruit-tca9548a-1-to-8-i2c-multiplexer-breakout?view=all
+
+Triac
+https://www.youtube.com/watch?v=Pd67rOuGEg0
+https://www.youtube.com/watch?v=h0SG6BNrKUs
+http://www.newark.com/fairchild-semiconductor/moc3043-m/optocoupler-triac-7500vac/dp/72K8900
+http://www.newark.com/littelfuse/q4004l4/triac-400v-4a-to-220/dp/56J8574
+http://www.newark.com/nte-electronics/nte56050/triac-600v-v-drm-4a-i-t-rms-to/dp/31C4902?ost=nte+56050&selectedCategoryId=&categoryNameResp=All%2BCategories&searchView=table&iscrfnonsku=false
